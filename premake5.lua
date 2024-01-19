@@ -42,4 +42,4 @@ project "GLFW"
 		}
 
 	filter { "system:windows", "configurations:Release" }
-		buildoptions "/MT
+		buildoptions "/MT"
